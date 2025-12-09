@@ -1,0 +1,4 @@
+bitcoin | status: 200
+ethereum | status: 200
+dogecoin | status: 200
+bitcoin | status: 200
